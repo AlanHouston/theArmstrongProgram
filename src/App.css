@@ -1,0 +1,81 @@
+*{
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.buttonStyle{
+  background-color: grey;
+  border: none;
+  color: white;
+  text-decoration: none;
+  font-size: 40px;
+  margin: 10px;
+}
+
+.homeButton{
+  background-color: grey;
+  border: none;
+  color: white;
+  font-size: 20px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+input{
+  width: 35px;
+}
+
+#infoStyle{
+  margin-top: 35px;
+}
+
+#armHomeStyle{
+  padding: 5px;
+}
+
+#topButton{
+  margin-top: 30px;
+}
+
+.inputMarg{
+  margin-left: 10px;
+}
+
+/* #maxEffFlex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.maxEffPar{
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+} */
+
+
+
