@@ -11,8 +11,6 @@ function Home(props){
             <div>visit the Armstrong Pullup Program home page:</div>
             <br/>
             <a className="homeButton" id="armHomeStyle" href="http://armstrongpullupprogram.com/" target="_blank">Armstrong Program</a>
-            {/* <br/>
-            <button onClick={()=>props.changeView(2)}>Stats!</button> */}
         </div>
     );
 }
