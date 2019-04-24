@@ -3,8 +3,8 @@ import React from 'react';
 export default function PullUpHome(props){
     
     return (
-        <div className="App">
-        <button className="homeButton" onClick={()=>{this.props.changeView(0)}}>Return to Home</button>
+    <div className="App">
+        <button className="homeButton" onClick={()=>props.changeView(0)}>Return to Home</button>
         <br/>
         <button className="buttonStyle" onClick={()=>props.changePullUpView(1)}>Day 1 : Max Effort</button>
         <br/>
