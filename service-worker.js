@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TheArmstrongProgram/precache-manifest.08e1235472fbf9ffc95312dab53a9954.js"
+  "/theArmstrongProgram/precache-manifest.3db64e6f3ff1bf34b98df6285efff0f6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/TheArmstrongProgram/index.html", {
+workbox.routing.registerNavigationRoute("/theArmstrongProgram/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
