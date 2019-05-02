@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/theArmstrongProgram/static/css/main.d1861c8e.chunk.css"
   },
   {
-    "revision": "269c03f83623d1e8d5c1095a2ccf4e13",
+    "revision": "ca52dceb9045a2fa5e27b7c9cd6e38cf",
     "url": "/theArmstrongProgram/index.html"
   }
 ];
