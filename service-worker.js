@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/theArmstrongProgram/precache-manifest.966dbad4c63c3774ffafcc447958f3e5.js"
+  "/theArmstrongProgram/precache-manifest.3eabd4937d43db45ca538dc5a41c95e7.js"
 );
 
 workbox.clientsClaim();
