@@ -10,7 +10,7 @@ function Home(props){
             <div id="infoStyle">For more detailed info and instructions, </div>
             <div>visit the Armstrong Pullup Program home page:</div>
             <br/>
-            <a className="homeButton" id="armHomeStyle" href="http://armstrongpullupprogram.com/" target="_blank">Armstrong Program</a>
+            <a className="homeButton" id="armHomeStyle" href="https://www.savannahstate.edu/cost/nrotc/documents/Inform2010-thearmstrongworkout_Enclosure15_5-2-10.pdf" target="_blank">Armstrong Program</a>
         </div>
     );
 }
